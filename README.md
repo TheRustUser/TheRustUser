@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### OS: Fedora Linux 38 Silverblue
+### OS: MacOS Sonoma
 ### Learning: OSDev
 
 <!--
