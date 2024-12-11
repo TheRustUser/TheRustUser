@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### OS: MacOS Sonoma
+### OS: MacOS Sequoia
 ### Learning: OSDev
 
 <!--
