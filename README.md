@@ -3,9 +3,9 @@
 ### Device: Apple MacBook Air 13" (M3, 2024)
 ### OS: MacOS Sequoia 15.2.0
 ### Learning: Operating System Development
-### Language: #1 Korean 🇰🇷, #2 English🇺🇸
-### Programming Languages I use: C, Rust
-### Currently trying to make a mathematical library, and an experimental x86_64 operating system in Rust
+### Language: #1 Korean 🇰🇷, #2 English 🇺🇸
+### Programming Languages I use: #1 C, #2 Rust🦀
+### Currently trying to make a mathematical library, and an experimental x86_64 operating system in C
 ### Currently doing: Implementing neofetch-like thing that works on macOS in Rust
 
 
