@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-### OS: MacOS Sequoia
-### Learning: OSDev
+### Device: Apple MacBook Air 13" (M3, 2024)
+### OS: MacOS Sequoia 15.2.0
+### Learning: Operating System Development
+### Language: Korean, English
+### Programming Languages I use: C, Rust
+### Currently trying to make a mathematical library, and an experimental x86_64 operating system in Rust
+### Currently doing: Implementing neofetch-like thing that works on macOS in Rust
+
 
 <!--
 **TheRustUser/TheRustUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
